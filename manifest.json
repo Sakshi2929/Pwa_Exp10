@@ -1,0 +1,17 @@
+{
+  "name": "Sign Language Translator",
+  "short_name": "SignLanguage",
+  "start_url": "/index.html",
+  "background_color": "#FFE9D2",
+  "display": "standalone",
+  "theme_color": "#FFE1C4",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/gmail.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
